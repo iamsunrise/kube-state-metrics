@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/prometheus-adapter/prometheus-adapter:v0.9.1
+FROM k8s.gcr.io/ingress-nginx/kube-webhook-certgen:v1.1.1
 
